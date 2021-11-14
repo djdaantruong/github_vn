@@ -1,0 +1,1 @@
+Đây là ghi chú sau khi hoàn thành tutorial "Học Git và GitHub (kiểm soát dự án và làm việc với team)" trên YouTbe channel của Passioncorners 😊
