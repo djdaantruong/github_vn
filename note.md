@@ -2,6 +2,7 @@
 
 Repository (Rebo)
 Branch
+Conflict
 
 ## Commands
 
